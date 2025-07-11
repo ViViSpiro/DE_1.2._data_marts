@@ -2,7 +2,9 @@
 
 ## Структура файлов проекта:
 
-* 101_form_calculation_for_January_2018.sql - Запуск и проверка заполнения витрины 101 формы
-* creating_a_data_mart_table_101_form.sql - Создание таблицы для 101 формы
-* fill_f101_round_f_procedure.sql - Процедура заполнения витрины 101 формы
+* Data_mart_calculation_for_January_2018.sql - Запуск расчёта ежедневной витрины оборотов и витрины остатков за январь
+* Filling_in_the_opening_balances_as_of_ 31.12.2017.sql - Заполнение начальных остатков на 31.12.2017
+* creation_of_data_marts.sql - Создание схемы DM и таблиц для витрин данных
+* fill_account_balance_f_procedure.sql - Процедура заполнения витрины остатков по лицевым счетам
+* fill_account_turnover_f_procedure.sql - Процедура заполнения витрины оборотов по лицевым счетам
 * link.txt - Файл со ссылкой на видео
